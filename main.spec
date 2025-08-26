@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['/Users/chao/PycharmProjects/idcard_generator/venv/lib/python3.7/site-packages', '/Users/chao/PycharmProjects/idcard_generator'],
+             pathex=['/Users/chenqiang/develop/idcard_generator/.venv/lib/python3.11/site-packages', '/Users/chenqiang/develop/idcard_generator'],
              binaries=[],
              datas=[('./asserts', './asserts')],
              hiddenimports=[],
