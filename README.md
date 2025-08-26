@@ -41,9 +41,12 @@
 
 ## 软件环境
 
-- numpy
-- pillow
-- opencv
+- uv init 
+- uv venv
+- source .venv/bin/activate
+- uv add numpy
+- uv add pillow
+- uv add opencv-python
 
 ## 源码安装
 
